@@ -1,0 +1,3 @@
+rootProject.name = 'BasicWizard'
+
+include ':app'
